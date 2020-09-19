@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![](https://github-readme-stats.vercel.app/api?username=YumeMichi)](https://github.com/YumeMichi)
+[![](https://github-readme-stats.vercel.app/api?username=aviraxp)](https://github.com/aviraxp)
 
 <!--
 **aviraxp/aviraxp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
